@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "MCFS_100018147: LPH EU",
+			"uri": "mcfs://100018147/"
+		},
+		{
+			"name": "MCFS_100003815: GRT EU",
+			"uri": "mcfs://100003815/"
+		},
+		{
+			"name": "MCFS_100003814: GRT LATAM",
+			"uri": "mcfs://100003814/"
+		}
+	],
+	"settings": {}
+}
