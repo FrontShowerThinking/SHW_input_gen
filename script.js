@@ -15,7 +15,8 @@ const DATA = {
       "Campaign costs review, logs evaluation and optimization processes"
     ],
     "Post-Launch Support": [
-      "Campaign costs review, logs evaluation and optimization processes"
+      "Campaign costs review, logs evaluation and optimization processes",
+    "Ensuring campaign runs correctly + Remarketing launch review"
     ]
   },
 
@@ -24,38 +25,43 @@ const DATA = {
       "Layout mockup development for approval prior to SFMC development"
     ],
 
-    "Email Layout": [
-      "Initial Layout Development",
-      "Email Remarketing Management",
-      "Sending email tests to client for content review and approval",
-      "Review, addition and finalization of all email and campaign links ahead of campaign UAT processes",
-      "Layout adjustments for responsiveness, Outlook compatibility and email client rendering",
-      "Implementation of feedback requested by client side on campaign assets"
-    ],
-    "Simple Survey": [
-      "Layout Development",
-      "TYP Development",
-      "Design adjustments to improve responsiveness and browser compatibility",
-      "Implementation of feedback requested by client side on campaign assets"
-    ],
-    "Star Rating": [
-      "Layout Development",
-      "TYP Development",
-      "Design adjustments to improve responsiveness and browser compatibility",
-      "Implementation of feedback requested by client side on campaign assets"
-    ],
-    "Complex Survey": [
-      "Layout Development",
-      "TYP Development",
-      "Design adjustments to improve responsiveness and browser compatibility",
-      "Implementation of feedback requested by client side on campaign assets"
-    ],
-    "Landing Page": [
-      "Layout Development",
-      "Design adjustments to improve responsiveness and browser compatibility",
-      "Implementation of feedback requested by client side on campaign assets"
-    ]
-  },
+   "Email Layout": [
+    "Layout mockup development for approval prior to SFMC development",
+    "Initial Layout Development",
+    "Email Remarketing Management",
+    "Sending email tests to client for content review and approval",
+    "Review, addition and finalization of all email and campaign links ahead of campaign UAT processes",
+    "Layout adjustments for responsiveness, Outlook compatibility and email client rendering",
+    "Implementation of feedback requested by client side on campaign assets"
+  ],
+  "Simple Survey": [
+    "Layout mockup development for approval prior to SFMC development",
+    "Layout Development",
+    "TYP Development",
+    "Design adjustments to improve responsiveness and browser compatibility",
+    "Implementation of feedback requested by client side on campaign assets"
+  ],
+  "Star Rating": [
+    "Layout mockup development for approval prior to SFMC development",
+    "Layout Development",
+    "TYP Development",
+    "Design adjustments to improve responsiveness and browser compatibility",
+    "Implementation of feedback requested by client side on campaign assets"
+  ],
+  "Complex Survey": [
+    "Layout mockup development for approval prior to SFMC development",
+    "Layout Development",
+    "TYP Development",
+    "Design adjustments to improve responsiveness and browser compatibility",
+    "Implementation of feedback requested by client side on campaign assets"
+  ],
+  "Landing Page": [
+    "Layout mockup development for approval prior to SFMC development",
+    "Layout Development",
+    "Design adjustments to improve responsiveness and browser compatibility",
+    "Implementation of feedback requested by client side on campaign assets"
+  ]
+},
   Consultant: {
     "Campaign Setup": [
       "Campaign development, journey execution and overall setup of functional processes",
