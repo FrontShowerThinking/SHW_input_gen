@@ -24,6 +24,9 @@ const DATA = {
 			 "Pre-Kickoff Support": [
       "Layout mockup development for approval prior to SFMC development"
     ],
+  "Coordination": [
+    "Support, task coordination & review assets campaign"
+  ],
 
    "Email Layout": [
     "Layout mockup development for approval prior to SFMC development",
